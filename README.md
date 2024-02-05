@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I am Imam Maghfir Ramadhan an Industrial Engineering student from Sampoerna University in collaboration with University of Arizona. 
 
@@ -8,8 +8,8 @@ Throughout my career, I have gained valuable experience in data collection, anal
 
 In addition, I have experience working with cross-functional teams, collaborating with both technical and non-technical stakeholders to achieve common goals. My communication skills and ability to translate technical information into business insights make me an asset to any team.
 
-✅ Competencies
+## ✅ Competencies
 Explotaroty Data Analysis, Data Wraggling, Statistical Analysis, Data Visualization, Machine Learning, ETL/ELT, RDBMS
 
-💻 Tools
+## 💻 Tools
 Excel, SQL, Power BI, Looker Studio, Python
